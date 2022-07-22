@@ -1,0 +1,8 @@
+{
+    "label": "数据管理",
+    "position": 6,
+    "link": {
+      "type": "generated-index",
+      "description": "讲解在 Gpushare 平台如何使用存储、存储有几种方式可选、如何上传下载数据、如何使用个人数据以及平台数据集、如何直接使用百度网盘、阿里云盘数据。"
+    }
+  }

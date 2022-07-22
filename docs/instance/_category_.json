@@ -1,0 +1,8 @@
+{
+    "label": "实例管理",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "讲解实例的环境、如何使用实例、如何使用镜像、如何使用团队功能及迁移功能。"
+    }
+  }
