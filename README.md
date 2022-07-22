@@ -6,12 +6,14 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ```
 $ npx create-docusaurus@latest website classic
+$ cd website
+$ git clone https://ghproxy.com/https://github.com/inpry/website.git -b main
+$ \cp -rf website/* ./ && rm -rf website
 ```
 
 ### Local Development
 
 ```
-$ cd website
 $ npm run start
 ```
 
